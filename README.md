@@ -10,3 +10,10 @@ Esse é um conjunto para tarefas de classificação, devemos treinar um modelo p
 ## Objetivos
 
 Utilizando Scikit-learn, treinar modelos de Random Forest e KNN utilizando técnicas de otimização de hiper-parâmentros, depois, a partir de métricas de avaliação, determinar qual dos modelos performou melhor.
+
+## Bibliotecas utilizadas
+- pandas
+- numpy
+- scikit-learn
+- imblearn
+- matplotlib
